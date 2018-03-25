@@ -17,11 +17,11 @@ __Sharpness Enhancement__
 
 __Weighted De-noise__
 
-<img src="pic/weightedDenoise.png" width="500" alt="denoise"/>
+<img src="pic/weightedDenoise.png" width="800" alt="denoise"/>
 
 __Zoneplate__
 
-<img src="pic/zoneplate.tif" width="250" alt="zoneplate"/>
+<img src="pic/zoneplate.png" width="400" alt="zoneplate"/>
 
 __Difference-of-Boxes Filter__
 
@@ -31,27 +31,11 @@ __Moire Pattern Suppression__
 
 <img src="pic/moire.png" width="500" alt="moire"/>
 
-
-
-
-
 __Document Image Restoration__
 
 <img src="pic/hough.png" width="500" alt="pm1"/>
 
-
-
 <img src="pic/restoration.png" width="800" alt="pm1"/>
-
-
-
-
-
-__Pattern Matching__
-
-<img src="pic/patternMatching1.png" width="800" alt="pm1"/>
-
-<img src="pic/patternMatching2.png" width="500" alt="pm2"/>
 
 __Feature  Detection__
 
