@@ -19,17 +19,25 @@ __Weighted De-noise__
 
 <img src="pic/weightedDenoise.png" width="800" alt="denoise"/>
 
+
+
 __Zoneplate__
 
 <img src="pic/zoneplate.png" width="400" alt="zoneplate"/>
+
+
 
 __Difference-of-Boxes Filter__
 
 <img src="pic/filter.png" width="500" alt="filter"/>
 
+
+
 __Moire Pattern Suppression__
 
 <img src="pic/moire.png" width="500" alt="moire"/>
+
+
 
 __Document Image Restoration__
 
@@ -37,9 +45,13 @@ __Document Image Restoration__
 
 <img src="pic/restoration.png" width="800" alt="pm1"/>
 
+
+
 __Feature  Detection__
 
 <img src="pic/featureDetection.png" width="500" alt="feature detection"/>
+
+
 
 ### Final Project
 
