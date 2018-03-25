@@ -3,6 +3,22 @@
 
 ### Course Assignments
 
+__Pattern Matching__
+
+```
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="pic/patternMatching1.png" width="" alt="pm1"/>  |  <img src="pic/patternMatching2.png" width="500" alt="pm2"/>
+```
+
+<img src="pic/patternMatching1.png" width="" alt="pm1"/>
+
+<img src="pic/patternMatching2.png" width="500" alt="pm2"/>
+
+__Feature  Detection__
+
+<img src="pic/featureDetection.png" width="500" alt="feature detection"/>
+
 ### Final Project
 
 - Report: [__PDF__](project/report/EE368_FinalReport.pdf)
