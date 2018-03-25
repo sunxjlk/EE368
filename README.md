@@ -3,15 +3,53 @@
 
 ### Course Assignments
 
+__Color Space__
+
+<img src="pic/colorSpace.png" width="500" alt="space"/>
+
+
+
+__Sharpness Enhancement__
+
+<img src="pic/enhance.png" width="500" alt="enhance"/>
+
+
+
+__Weighted De-noise__
+
+<img src="pic/weightedDenoise.png" width="500" alt="denoise"/>
+
+__Zoneplate__
+
+<img src="pic/zoneplate.tif" width="250" alt="zoneplate"/>
+
+__Difference-of-Boxes Filter__
+
+<img src="pic/filter.png" width="500" alt="filter"/>
+
+__Moire Pattern Suppression__
+
+<img src="pic/moire.png" width="500" alt="moire"/>
+
+
+
+
+
+__Document Image Restoration__
+
+<img src="pic/hough.png" width="500" alt="pm1"/>
+
+
+
+<img src="pic/restoration.png" width="800" alt="pm1"/>
+
+
+
+
+
 __Pattern Matching__
 
-```
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="pic/patternMatching1.png" width="" alt="pm1"/>  |  <img src="pic/patternMatching2.png" width="500" alt="pm2"/>
-```
-
-<img src="pic/patternMatching1.png" width="" alt="pm1"/>
+<img src="pic/patternMatching1.png" width="800" alt="pm1"/>
 
 <img src="pic/patternMatching2.png" width="500" alt="pm2"/>
 
